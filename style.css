@@ -14,7 +14,7 @@ body {
   background-image: url(http://images4.fanpop.com/image/photos/15900000/Sherlock-1x03-The-Great-Game-benedict-cumberbatch-15991050-1280-720.jpg) no-repeat bottom left fixed;
   background-color:;
   background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;*/
-  color: #8000FF;
+  color: ;
   font-family: "Days One", sans-serif;
 }
 
@@ -131,7 +131,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(./images/start.png) center center no-repeat;
+  background: url(http://ia.media-imdb.com/images/M/MV5BNTA2MTE1NDI5OV5BMl5BanBnXkFtZTcwNzM2MzU3Nw@@._V1_SY317_CR21,0,214,317_.jpg) center center no-repeat;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
