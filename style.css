@@ -11,7 +11,7 @@ a {
 
 body {
   text-align: center;
-  background-image: url(http://www.thehdwallpapers.net/walls/puella-magi-madoka-magica-wide.jpg) no-repeat bottom left fixed;
+  background-image: url(http://images4.fanpop.com/image/photos/15900000/Sherlock-1x03-The-Great-Game-benedict-cumberbatch-15991050-1280-720.jpg) no-repeat bottom left fixed;
   background-color: #BE81F7;
   background-size: auto auto, auto auto, 50px 50px, 50px 50px, auto auto;*/
   color: #8000FF;
@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(http://www.thehdwallpapers.net/walls/puella-magi-madoka-magica-wide.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://www-tc.pbs.org/wgbh/masterpiece/sherlock/homeimages/umbrella_slideshow_01.jpg) no-repeat; background-size: contain;}
+.fx {background: url(http://static.bbci.co.uk/programmeimages/528xn/generic/sherlock/watson.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://images5.fanpop.com/image/photos/28800000/Jim-Moriarty-sherlock-28870103-1280-1781.png) no-repeat; background-size: contain;}
+.sf {background: url(http://4.bp.blogspot.com/-vsGgeR3_DME/T3-ltkykkEI/AAAAAAAAAWk/TST6CkU7F7A/s1600/lara%2Bpulver.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://media.tumblr.com/tumblr_m3txdpSTag1qilrgh.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://www.polyvore.com/cgi/img-thing?.out=jpg&size=l&tid=49494703) no-repeat; background-size: contain;}
+.tb {background: url(http://images5.fanpop.com/image/polls/1052000/1052399_1339691561268_full.jpg) no-repeat; background-size: contain;}
+.fm {background: url(http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/12/15/1323966370553/Sherlock-stars-Benedict-C-007.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
